@@ -28,7 +28,7 @@ public class Person {
         }
 
         // Step B: this will crash because p2.address is null
-        System.out.println(p2.address.city);
+        //System.out.println(p2.address.city);
 
         
 
