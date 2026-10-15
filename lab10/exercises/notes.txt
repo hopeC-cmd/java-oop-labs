@@ -1,0 +1,5 @@
+Hello
+Java is fun
+Harare
+File works
+Done
