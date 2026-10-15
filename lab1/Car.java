@@ -40,3 +40,19 @@ public class Car {
         System.out.println("Is c3 antique? " + c3.isAntique());
     }
 }
+
+// The lines that will run are:
+// Car c1 = new Car();
+// c1.brand = "Toyota Corolla";
+// c1.year = 2010;
+// c1.mileage = 150000;
+//
+// Car c2 = new Car();
+// c2.brand = "Honda Fit";
+// c2.year = 2020;
+// c2.mileage = 50000;
+//
+// Car c3 = new Car();
+// c3.brand = "Mazda 6";
+// c3.year = 1998;
+// c3.mileage = 200000;

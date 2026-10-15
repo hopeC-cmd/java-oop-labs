@@ -27,3 +27,4 @@ public class BlockOrder {
         new BlockOrder();
     }
 }
+// Prediction - The lines that will run are: Static block 1, Static block 2, --- main starts ---, instance block 1, instance block 2, constructor, --- second object ---, instance block 1, instance block 2, constructor.

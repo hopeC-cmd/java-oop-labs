@@ -34,7 +34,7 @@ public class Temperature {
         System.out.println("t1: " + t1.getCelsius() + " C = " + t1.getFahrenheit() + " F");
         System.out.println("t2: " + t2.getCelsius() + " C = " + t2.getFahrenheit() + " F");
 
-        // new Temperature(30);   // compile error if called from another class: Temperature(double) has private access
+        //new Temperature(30);   // compile error if called from another class: Temperature(double) has private access
 
     }
 }

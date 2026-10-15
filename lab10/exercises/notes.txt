@@ -1,5 +1,5 @@
-Hello
-Java is fun
-Harare
-File works
-Done
+Hello Java
+Files are fun
+Harare is home
+Coding is fun
+Debugging is boring

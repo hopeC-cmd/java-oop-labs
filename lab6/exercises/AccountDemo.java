@@ -20,6 +20,6 @@ public class AccountDemo {
             System.out.println("Rejected: " + e.getMessage());
         }
 
-        // Account a = new Account("X", 0);    // try uncommenting: what error do you get?
+        //Account a = new Account("X", 0);    // Error
     }
 }
